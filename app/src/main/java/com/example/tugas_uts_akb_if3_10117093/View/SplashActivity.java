@@ -29,7 +29,7 @@ public class SplashActivity extends AwesomeSplash {
         configSplash.setAnimTitleTechnique(Techniques.FadeIn);
 
         //menambahkan title
-        configSplash.setTitleSplash("Hunting Girlfriend With Me");
+        configSplash.setTitleSplash("Loading . . .");
         configSplash.setTitleTextColor(R.color.colorPrimaryDark);
         configSplash.setTitleTextSize(30f);
         configSplash.setAnimTitleDuration(2000);
